@@ -1,0 +1,23 @@
+*{
+	padding: 0;
+	margin:0;
+}
+.fondo{
+	background-image: url("https://cdn.photographylife.com/wp-content/uploads/2010/06/Delicate-Arch-Horizontal-Panorama.jpg");
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+
+.fondo h1{
+	position: fixed;
+	color: red;
+	border: 1px solid;
+	top: 40%;
+	left: 40%;
+}
+
+p{
+	font-size: 60px;
+}
